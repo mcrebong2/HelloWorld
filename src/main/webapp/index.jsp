@@ -10,7 +10,7 @@ pageEncoding="ISO-8859-1"%>
 <body>
 
 	<center>
-		<h2>Hello World V1.8</h2>asd
+		<h2>Hello World V1.9</h2>
 	</center>
 </body>
 </html>
